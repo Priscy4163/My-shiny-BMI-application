@@ -19,3 +19,8 @@ This shiny app acquires input values from the user to calculate body mass index 
 
 ## WORKFLOW
 The sequential representation of the processes of the task from start to finish.
+
+
+
+
+[my workflow.docx](https://github.com/Priscy4163/My-shiny-BMI-application/files/7970222/my.workflow.docx)
