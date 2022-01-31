@@ -10,12 +10,12 @@ The BMI is used in a wide variety of fields as a simple method to assess how muc
 This body mass index calculator provides the BMI and the corresponding BMI weight status category outlined by the World Health Organisation.
 
 
-DESCRIPTION
+## DESCRIPTION
 This shiny app acquires input values from the user to calculate body mass index for a variety of weights and heights. my interest in healthy lifestyle motivated to develop the application. It can be used for many different purposes including;
 
 1 Physical fitness and weight loss journey
 2 In medical settings to monitor patient's health.
 
 
-##WORKFLOW
+## WORKFLOW
 The sequential representation of the processes of the task from start to finish.
