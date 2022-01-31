@@ -22,5 +22,6 @@ The sequential representation of the processes of the task from start to finish.
 
 
 
+![my workflow-page0001 (5)](https://user-images.githubusercontent.com/94042365/151785381-c291337f-06a5-48e0-b558-83d616539fbf.jpg)
 
-[my workflow.docx](https://github.com/Priscy4163/My-shiny-BMI-application/files/7970222/my.workflow.docx)
+
