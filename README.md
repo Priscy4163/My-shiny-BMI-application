@@ -46,5 +46,8 @@ Obesity is a leading cause of many health challenges encountered today, these in
 . Obese 30.0 - 35.0
 . > 35 is clinically obese
 
+#ACKNOWLEDGEMENT
+To begin with, i would like to appreciate God Almighty for his mercy and unfailing love. furthermore, My Supervisor as well as Head of Department, Human Anatomy Bauchi State University Gadau in the person of DR UMAR. AHMAD (aka babasaraki) for his fatherly guidiance and mentorship. He taught me how to settle for the Best even in the presence of good, am so grateful sir. 
+
 
 
