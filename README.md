@@ -29,7 +29,7 @@ The sequential representation of the processes of the task from start to finish.
 
 # OBESITY AND HEALTH PROBLEMS
 Obesity is a leading cause of many health challenges encountered today, these includes;
-###. Hypertension
+**Hypertension
 . Stroke
 . Coronary heart disease
 . Osteoarthritis
