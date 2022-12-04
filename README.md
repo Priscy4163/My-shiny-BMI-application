@@ -3,7 +3,7 @@
 
 
 ## WHAT IS THE BODY MASS INDEX
-The BMI is used in a wide variety of fields as a simple method to assess how much an individual's body weight departs from what is normal or desirable for a person of his or her age.
+The body mass index (BMI) is defined as the body mass divided by the square of the body height, and is universally expressed in units of kg/m2, resulting from mass in kilograms and height in metres. The BMI is used in a wide variety of fields as a simple method to assess how much an individual's body weight departs from what is normal or desirable for a person of his or her age.
 
 
 ## ABOUT THE CALCULATOR
