@@ -11,7 +11,7 @@ This body mass index calculator provides the BMI and the corresponding BMI weigh
 
 
 ## DESCRIPTION
-This shiny app acquires input values from the user to calculate body mass index for a variety of weights and heights. my interest in healthy lifestyle motivated to develop the application. It can be used for many different purposes including;
+This shiny app acquires input values from the user to calculate body mass index for a variety of weights and heights. My interest in healthy lifestyle motivated me to develop the application. It can be used for many different purposes including;
 
 1 Physical fitness and weight loss journey
 2 In medical settings to monitor patient's health.
