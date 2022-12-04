@@ -29,15 +29,15 @@ The sequential representation of the processes of the task from start to finish.
 
 # OBESITY AND HEALTH PROBLEMS
 Obesity is a leading cause of many health challenges encountered today, these includes;
-**Hypertension
-. Stroke
-. Coronary heart disease
-. Osteoarthritis
-. Type 2 diabetes
-. Respiratory problems
-. Dyslipidemia
-. Sleep apnea and 
-. At least ten type of cancers
+*Hypertension
+*Stroke
+*Coronary heart disease
+*Osteoarthritis
+*Type 2 diabetes
+*Respiratory problems
+*Dyslipidemia
+*Sleep apnea and 
+*At least ten type of cancers
 
 # The BMI  index
 . Underweight <18.5
