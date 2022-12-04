@@ -27,5 +27,24 @@ The sequential representation of the processes of the task from start to finish.
 ![images (8)](https://user-images.githubusercontent.com/94042365/151785901-15e5153b-d881-4924-9201-deebe64e4040.jpeg)
 ![who bmi1](https://user-images.githubusercontent.com/94042365/151785959-15a2d068-ca9c-4c18-9395-1b9aa11ab2cb.jpg)
 
+# OBESITY AND HEALTH PROBLEMS
+Obesity is a leading cause of many health challenges encountered today, these includes;
+. Hypertension
+. Stroke
+. Coronary heart disease
+. osteoarthritis
+. Type 2 diabetes
+. Respiratory problems
+. Dyslipidemia
+. Sleep apnea and 
+. At least ten type of cancers
+
+# The BMI  index
+. Underweight <18.5
+. Normal 18.5 - 25.0
+. Overweight 25.0 - 30.0
+. Obese 30.0 - 35.0
+. > 35 is clinically obese
+
 
 
